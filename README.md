@@ -1,2 +1,2 @@
 # Aadish_Codsoft_task3
-Deployed Site Link:- https://aadishjain-codsoft-task3.netlify.app/
+Deployed Site Link:- https://aadish-jain-calculator.netlify.app/
