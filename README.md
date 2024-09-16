@@ -1,2 +1,2 @@
-# Aadish_Codsoft_task3
+# Aadish
 Deployed Site Link:- https://aadish-jain-calculator.netlify.app/
