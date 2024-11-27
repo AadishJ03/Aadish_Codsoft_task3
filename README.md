@@ -1,2 +1,4 @@
-# Aadish
-Deployed Site Link:- https://aadish-jain-calculator.netlify.app/
+# Calculator
+
+- Made using HTML,CSS and JS
+- Website: https://calculator.aadish.tech/
